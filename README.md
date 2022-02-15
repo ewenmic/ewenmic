@@ -1,8 +1,9 @@
-## Hi there! I'm Michael 👋
+## Hi there, I'm Michael! 👋
 
 - 😀 I’m a full-stack software engineer currently working on creating a mobile ordering solution for IKEA Food US; and an interactive bidirectional streaming video platform with  customizable billing scenarios. 
 - 📫 Contact me at contact@michaelewen.net
-## Things I code with .. 💻
+
+## Things I code with ... 💻
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" height=25/>
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" height=25 />
