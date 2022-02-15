@@ -1,6 +1,7 @@
-### Hi there! I'm Michael 👋
-- 🔭 I’m currently working on creating a mobile ordering solution for IKEA Food US, and an interactive bidirectional streaming video platform with complex customizable billing scenarios. 
-- 📫 How to reach me: contact@michaelewen.net
+## Hi there! I'm Michael 👋
+
+- 😀 I’m a full-stack software engineer currently working on creating a mobile ordering solution for IKEA Food US; and an interactive bidirectional streaming video platform with  customizable billing scenarios. 
+- 📫 Contact me at contact@michaelewen.net
 ## Things I code with .. 💻
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" height=25/>
@@ -14,6 +15,8 @@
   <img alt="GCP" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" height=25 />
   <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" height=25 />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" height=25 />
+  <img alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" height=25 />
+  <img alt="Cordova" src="https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8" height=25 />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height=25 />
   <img alt="SaSS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" height=25 />
   <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height=25 />
@@ -24,4 +27,7 @@
   <img alt="App Store" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" height=25 />
   <img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" height=25 />
 </p>
-
+<br>
+<p align="center">
+  <img alt="My Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ewenmic" />
+ </p>
