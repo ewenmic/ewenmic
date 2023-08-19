@@ -1,9 +1,9 @@
 ## Hi there, I'm Michael! 👋
 
-- 😀 I’m a full-stack software engineer who loves chasing new things! I'm currently working on an enterprise kiosk registration/administration tool.
-- 📫 Contact me at contact@michaelewen.net
+- 😀 I’m a full-stack software engineer who loves chasing new things!
+- 📫 Contact me at contact@michaelewen.com
 
-## Things I code with ... 💻
+## Things I build with ... 💻
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" height=25/>
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" height=25 />
@@ -27,6 +27,7 @@
   <img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" height=25 />
   <img alt="App Store" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" height=25 />
   <img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" height=25 />
+  <img alt="Adobe CC" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" height=25 />
 </p>
 <br>
 <p align="center">
